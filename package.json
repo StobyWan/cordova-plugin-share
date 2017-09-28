@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "0.1.1",
+  "description": "Share",
+  "cordova": {
+    "id": "nl.madebymark.share",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StobyWan/cordova-plugin-share.git"
+  },
+  "keywords": [
+    "share",
+    "facebook",
+    "twitter",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "bstober",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/StobyWan/cordova-plugin-share/issues"
+  },
+  "homepage": "https://github.com/StobyWan/cordova-plugin-share#readme"
+}
